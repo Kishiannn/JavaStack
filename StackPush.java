@@ -17,3 +17,9 @@ public class StackJava {
         System.out.print(myHobbies);
     }
 }
+
+/*Result
+
+
+[Martial Arts, Reading Manga, Coding, Guitar]
+*/
